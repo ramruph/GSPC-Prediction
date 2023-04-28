@@ -1,4 +1,4 @@
-# GSPC-Prediction
+# Stock Market Predictions using S&P500 Data
 S&amp;P500 Stock Prediction
 # Overview
 In this project to use the S&P500 data, a Linear Regression, and a Random Forest Ensemble Supervised Learning Model to predict the overall Stock Market and if tomorrow's price will go up or down in direction.
